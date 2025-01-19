@@ -1,0 +1,74 @@
+Field,Label,Value
+id,Dataset ID,c408c48a-26d1-49b6-b472-ef471efb798b
+title,Title of Dataset,Pakistan - Subnational Edge-matched Administrative Boundaries
+name,Dataset URL,cod-em-pak
+notes,Description,"Pakistan administrative level 0-3 COD-EM edge-matched gazetteer, shapefiles, geodatabase, and geoservice. COD-EM datasets do not replace the authoritative COD-AB available here; however COD-EM datasets may be preferred for cartographic purposes.  See caveats. Note: these boundaries and P-codes are not compatible with the Pakistan COD-PS. Vetting and live service provision by Information Technology Outreach Services (ITOS) with funding from USAID."
+dataset_source,Source,World Food Programme SDI
+organization,Contributor,OCHA Field Information Services Section (FISS)
+dataset_date,Reference Period,[2022-09-18T00:00:00 TO *]
+last_modified,Updated,2023-06-30T20:45:31.148611
+data_update_frequency,Expected Update Frequency,Every year
+groups,Location,Pakistan
+license_title,License,Creative Commons Attribution International
+methodology,Methodology,Other
+methodology_other,Define Methodology,"Edge-matched layers derived from [Pakistan - Subnational Administrative Boundaries](https://data.humdata.org/dataset/cod-ab-pak) layers. Quality assured, configured, and published as live services by ITOS."
+caveats,Caveats/Comments,"The edge-matched layers are subject to the following potential limitations:
+
+Where countries border each other, one or even both boundaries may be less accurate than the original, definitive boundaries. The UN Geospatial Hub boundary is generally of lower quality than the definitive COD-AB layers.
+
+Peripheral polygon feature shapes and the relationship of their areas to those of their internal neighbouring features may be distorted, while internal features are untouched.
+
+Peripheral polygon features may artificially appear to touch different, incorrect features belonging the same country."
+tags,Tags,administrative boundaries-divisions
+resource_1_created,Created,2022-09-19T01:13:26.588552
+resource_1_description,Description,Pakistan administrative level 0-3 gazetteer
+resource_1_format,File Format,XLSX
+resource_1_download_url,Download URL,https://data.humdata.org/dataset/c408c48a-26d1-49b6-b472-ef471efb798b/resource/1ad296c5-4001-4217-ab53-5a2846672765/download/pak_adminboundaries_tabulardata.xlsx
+resource_1_id,Resource ID,1ad296c5-4001-4217-ab53-5a2846672765
+resource_1_last_modified,Updated,2023-04-04T20:11:24.933621
+resource_1_metadata_modified,Metadata Updated,2023-11-08T22:10:41.601877
+resource_1_microdata,Microdata,False
+resource_1_dataset_id,Dataset ID,c408c48a-26d1-49b6-b472-ef471efb798b
+resource_1_resource_type,Resource Type,file.upload
+resource_1_name,Resource Name,PAK_AdminBoundaries_TabularData.xlsx
+resource_1_mimetype,MIME Type,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+resource_1_size,Size,48.9K
+resource_2_created,Created,2022-09-19T01:14:52.265818
+resource_2_description,Description,Pakistan administrative level 0-3 edge-matched boundary shapefiles
+resource_2_format,File Format,SHP
+resource_2_download_url,Download URL,https://data.humdata.org/dataset/c408c48a-26d1-49b6-b472-ef471efb798b/resource/6e8b8df6-3807-4805-bc9d-6928c3245173/download/pak_adm_wfp_20220909_shp.zip
+resource_2_id,Resource ID,6e8b8df6-3807-4805-bc9d-6928c3245173
+resource_2_last_modified,Updated,2022-09-19T01:14:51.638523
+resource_2_metadata_modified,Metadata Updated,2023-11-08T22:10:41.602023
+resource_2_microdata,Microdata,False
+resource_2_dataset_id,Dataset ID,c408c48a-26d1-49b6-b472-ef471efb798b
+resource_2_resource_type,Resource Type,file.upload
+resource_2_name,Resource Name,pak_adm_wfp_20220909_SHP.zip
+resource_2_mimetype,MIME Type,application/x-zip-compressed
+resource_2_size,Size,12.6M
+resource_3_created,Created,2022-09-19T01:14:55.833485
+resource_3_description,Description,Pakistan administrative level 0-3 edge-matched boundary geodatabase
+resource_3_format,File Format,Geodatabase
+resource_3_download_url,Download URL,https://data.humdata.org/dataset/c408c48a-26d1-49b6-b472-ef471efb798b/resource/cb246e5d-4aea-4589-9d8b-ff594a47e996/download/pak_adm_wfp_20220909_gdb.gdb.zip
+resource_3_id,Resource ID,cb246e5d-4aea-4589-9d8b-ff594a47e996
+resource_3_last_modified,Updated,2022-09-19T01:14:54.959931
+resource_3_metadata_modified,Metadata Updated,2023-11-08T22:10:41.602134
+resource_3_microdata,Microdata,False
+resource_3_dataset_id,Dataset ID,c408c48a-26d1-49b6-b472-ef471efb798b
+resource_3_resource_type,Resource Type,file.upload
+resource_3_name,Resource Name,pak_adm_wfp_20220909_GDB.gdb.zip
+resource_3_mimetype,MIME Type,application/x-zip-compressed
+resource_3_size,Size,8.2M
+resource_4_created,Created,2023-06-30T20:45:31.165983
+resource_4_description,Description,"This map service contains a globally edgematched version of OCHA Common Operational Datasets for Pakistan: Administrative Boundaries. The service is available as ESRI Map, ESRI Feature, WMS, and KML Services. See the OCHA COD/FOD terms of use for access and use constraints."
+resource_4_format,File Format,Geoservice
+resource_4_download_url,Download URL,https://codgis.itos.uga.edu/arcgis/rest/services/COD_External_Edgematch/PAK_EN_Edgematch/MapServer
+resource_4_id,Resource ID,1de7b147-b940-4ba0-ae35-d31dd46b4b22
+resource_4_last_modified,Updated,2023-06-30T20:45:31.148611
+resource_4_metadata_modified,Metadata Updated,2023-11-08T22:10:41.602243
+resource_4_microdata,Microdata,False
+resource_4_dataset_id,Dataset ID,c408c48a-26d1-49b6-b472-ef471efb798b
+resource_4_resource_type,Resource Type,api
+resource_4_name,Resource Name,COD_External_Edgematch/PAK_EN_Edgematch (MapServer)
+resource_4_mimetype,MIME Type,
+resource_4_size,Size,
